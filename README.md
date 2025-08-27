@@ -35,7 +35,9 @@ Make sure you have Python 3.8+ installed on your system. You can download it fro
     ```
 
 2.  **Navigate to the project directory:**
+    ```sh
     cd PDF-Summarizer
+    ```
 
 3.  **Install the required dependencies:**
     *(It is highly recommended to create a virtual environment first)*
